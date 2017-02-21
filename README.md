@@ -15,3 +15,6 @@
 * [Rxjava实战](http://www.jianshu.com/p/64aa976a46be)
 * [Android Retrofit 2.0 使用-补充篇](http://wuxiaolong.me/2016/06/18/retrofits/)
 
+##java web学习
+* [JavaWeb学习总结(一)——JavaWeb开发入门](http://www.cnblogs.com/xdp-gacl/p/3729033.html)
+* [javaWeb学习视频](http://www.maiziedu.com/course/java/)
