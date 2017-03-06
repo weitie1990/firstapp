@@ -21,3 +21,7 @@
 
 ##android自定义view
 * [深入理解 Android 之 View 的绘制流程](http://www.cnblogs.com/jycboy/p/6219915.html)
+
+##svn
+* [Mac搭建本地svn服务器，并用Cornerstone连接服务器](http://www.cnblogs.com/czq1989/p/4913692.html)
+* [CornerStone的使用](http://www.jianshu.com/p/7f5c019c528b)
