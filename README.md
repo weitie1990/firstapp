@@ -18,3 +18,6 @@
 ##java web学习
 * [JavaWeb学习总结(一)——JavaWeb开发入门](http://www.cnblogs.com/xdp-gacl/p/3729033.html)
 * [javaWeb学习视频](http://www.maiziedu.com/course/java/)
+
+##android自定义view
+* [深入理解 Android 之 View 的绘制流程](http://www.cnblogs.com/jycboy/p/6219915.html)
