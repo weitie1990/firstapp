@@ -32,6 +32,9 @@
 
 ## android自定义view
 * [深入理解 Android 之 View 的绘制流程](http://www.cnblogs.com/jycboy/p/6219915.html)
+* [安卓自定义View教程目录](http://www.gcssloop.com/customview/CustomViewIndex)
+* [Android自定义控件三部曲文章索引](http://blog.csdn.net/harvic880925/article/details/50995268)
+* [简单说说Android自定义view学习推荐的方式](http://blog.csdn.net/wingichoy/article/details/50483101)
 
 ## svn
 * [Mac搭建本地svn服务器，并用Cornerstone连接服务器](http://www.cnblogs.com/czq1989/p/4913692.html)
