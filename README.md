@@ -68,4 +68,17 @@
 * [Android 源码解析专栏](http://blog.csdn.net/qq_23547831?viewmode=contents)
 * [DriodDeveloper](http://blog.csdn.net/hejjunlin) —— 原创FrameWork源码解析，插件化研究
 
+## 高质量Android社区
+* [Gank.io 匠心写作](http://gank.io/post/published)
+* [Android 开发者酷站](https://www.diycode.cc/sites)
+* [鸿洋的 Android 社区](http://xueandroid.com/index) —— 全是干货
+* [Stackoverflow](http://stackoverflow.com/questions/tagged/android) —— 国外著名的问答社区
+* [antoniolevia](http://antonioleiva.com) —— 国外android技术分享网站
+* [Android 开发技术周报](http://www.androidweekly.cn) —— 长期更新最新前言资讯
+* [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
+* [干货集中营](http://gank.io) —— 每日分享妹子图 和 技术干货，还有供大家中午休息的休闲视频
+* [腾讯 bugly 社区](http://bugly.qq.com/bbs/forum.php?mod=forumdisplay&fid=39) 
+* [掘金 Android](http://gold.xitu.io/explore/android)
+* [V2ex-Android](https://www.v2ex.com/go/android)
+
 
