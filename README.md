@@ -12,6 +12,7 @@
 * [MD 调色板](http://www.materialpalette.com)
 * [图标下载库](http://www.flaticon.com) —— 160,428 vector icons grouped in 2,409 packs
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
+* [一个生成Material Design风格icon的工具，比如阴影形状之类的，挺适合个人开发者。](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 
 ## 制图工具
 [在线生成LOGO](http://www.logoko.com.cn/)
