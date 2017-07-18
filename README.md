@@ -42,6 +42,7 @@
 * [CornerStone的使用](http://www.jianshu.com/p/7f5c019c528b)
 
 ## 值得关注的大牛博客
+* [抛物线的个人主面](http://hencoder.com/) —— 如何进阶成高级工程师
 * [CodeKK](http://a.codekk.com/) 
 * [Trinea](http://www.trinea.cn/) 
 * [老罗的Android之旅](http://blog.csdn.net/Luoshengyang) 
