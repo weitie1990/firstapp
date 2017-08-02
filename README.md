@@ -86,7 +86,7 @@
 ## 学习学习
 * [功课](https://lianhonghong.com/topics/4366)
 * [功课1](http://www.avku9.com/)
-* [功课3](http://javdiscovery.com/)
+* [功课3](https://www.pornhub.com/)
 * [功课4](https://spankbang.com)
 
 
