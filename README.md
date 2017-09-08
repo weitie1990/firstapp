@@ -26,6 +26,7 @@
 * [可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
 * [Rxjava实战](http://www.jianshu.com/p/64aa976a46be)
 * [Android Retrofit 2.0 使用-补充篇](http://wuxiaolong.me/2016/06/18/retrofits/)
+* [你不知道的Retrofit缓存库RxCache](http://www.jianshu.com/p/b58ef6b0624b)
 
 ## java web学习
 * [JavaWeb学习总结(一)——JavaWeb开发入门](http://www.cnblogs.com/xdp-gacl/p/3729033.html)
