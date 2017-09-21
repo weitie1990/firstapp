@@ -14,6 +14,7 @@
 * [一些常用的开发工具类](https://github.com/l123456789jy/Lazy)
 * [一个生成Material Design风格icon的工具，比如阴影形状之类的，挺适合个人开发者。](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 * [蒲公英-免费上传应用免费二维码扫描下载](https://fir.im/)
+* [最好的图片压缩工具TinyPNG](https://tinypng.com/)
 
 ## 制图工具
 [在线生成LOGO](http://www.logoko.com.cn/)
