@@ -87,7 +87,6 @@
 * [V2ex-Android](https://www.v2ex.com/go/android)
 
 ## 学习学习
-* [功课1](http://www.avku9.com/)
 * [功课3](https://www.pornhub.com/)
 * [功课4](https://spankbang.com)
 
