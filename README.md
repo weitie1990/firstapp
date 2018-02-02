@@ -30,6 +30,9 @@
 * [Android Retrofit 2.0 使用-补充篇](http://wuxiaolong.me/2016/06/18/retrofits/)
 * [你不知道的Retrofit缓存库RxCache](http://www.jianshu.com/p/b58ef6b0624b)
 
+## Gson
+* [你真的会用Gson吗?Gson使用指南](https://www.jianshu.com/p/e740196225a4)
+
 ## java web学习
 * [JavaWeb学习总结(一)——JavaWeb开发入门](http://www.cnblogs.com/xdp-gacl/p/3729033.html)
 * [javaWeb学习视频](http://www.maiziedu.com/course/java/)
