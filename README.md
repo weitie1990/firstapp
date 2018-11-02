@@ -91,7 +91,32 @@
 
 ## 面试题库
 ### java
+* [HashMap的内部原理](https://juejin.im/post/5b7991fc51882542f25a4e76)
+* [java中创建线程的方式有几种](https://blog.csdn.net/longshengguoji/article/details/41126119)
+* [线程阻塞的方式。主要还是考察sleep、wait、yield与join的区别。](https://www.cnblogs.com/aspirant/p/8876670.html)
+* [死锁造成的原因、手写死锁。synchronized 关键字](https://juejin.im/post/5aaf6ee76fb9a028d3753534)
+* [线程池ThreadPoolExecutor的使用，内部处理任务的过程以及四种线程池的区别。](https://blog.csdn.net/xiaoxiaoxuanao/article/details/78737085)
+* [Java中的四种引用以及使用的场景](https://blog.csdn.net/u014532217/article/details/79184412)
+* [java中GC回收算法以及年代区分问题等](https://segmentfault.com/a/1190000016187449)
+
 ### android
+* [Activity的启动模式、standard、singleTop、singleTask、singleInstance的区别](https://blog.csdn.net/zivensonice/article/details/51569502)
+* [Service的启动模式和生命周期](https://blog.csdn.net/carson_ho/article/details/53160137)
+* [Android消息机制Handler](https://blog.csdn.net/u013637594/article/details/80384760)
+* [事件分发原理](https://blog.csdn.net/u013637594/article/details/82493350)
+* [AsyncTask内部实现原理。](https://blog.csdn.net/u013637594/article/details/81698881)
+* [LruCache算法如何实现，内部为什么要用LinkHashMap来实现。 ](https://blog.csdn.net/u013637594/article/details/81866582)
+* [进程之间的通信方式，IPC原理。](https://blog.csdn.net/u011240877/article/details/72863432) (https://blog.csdn.net/lmj623565791/article/details/38461079)
+* [进程之间的优先级。 前台进程、可见进程、后台进程、不可见进程与空进程。](https://blog.csdn.net/wuseyukui/article/details/48004687)
+* [图片的压缩处理](https://juejin.im/entry/583bc1d0a22b9d006a8a7a72)
+* [Serializable与Parcable的区别。](https://www.pornhub.com/)
+* [动画总结。 重点是属性动画内部实现原理，差值器和估值器的使用。](https://www.pornhub.com/)
+* [Android中断点续传的原理、热更新的原理](https://www.pornhub.com/)
+* [Android的性能优化](https://www.pornhub.com/)
+* [网络请求原理。 http与https的区别](https://www.pornhub.com/)
+* [开源框架的使用和原理](https://www.pornhub.com/)
+
+
 
 ## 学习学习
 * [功课3](https://www.pornhub.com/)
