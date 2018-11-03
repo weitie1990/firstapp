@@ -115,9 +115,17 @@
 * [动画总结。 重点是属性动画内部实现原理，差值器和估值器的使用。](https://www.jianshu.com/p/420629118c10)
 * [Android中断点续传的原理](https://blog.csdn.net/guofengpu/article/details/51519078)
 * [Android中热更新的原理](https://juejin.im/entry/59afb8fc518825243b2a9f7f)
-* [Android的性能优化](https://www.pornhub.com/)
-* [网络请求原理。 http与https的区别](https://www.pornhub.com/)
-* [开源框架的使用和原理](https://www.pornhub.com/)
+* [Android的性能优化](https://blog.csdn.net/yanbober/article/details/48394201)
+* [网络请求原理。 http与https的区别,http1与http2的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
+* [网络请求原理三次握手四次分手](https://www.zhihu.com/question/67772889)
+* [http返回码合集](https://blog.csdn.net/qq_21376985/article/details/51051554)
+* [okhttp的源码解读](https://juejin.im/post/5abe14c95188255c313adda1)
+* [Glide原理之执行流程分析](https://www.jianshu.com/p/179aff701a5f)
+* [Dagger2注入原理解析](https://juejin.im/entry/5b608c65e51d4519202e475b)
+
+
+
+
 
 
 
