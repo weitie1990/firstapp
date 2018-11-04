@@ -119,6 +119,7 @@
 * [网络请求原理。 http与https的区别,http1与http2的区别](https://juejin.im/entry/5981c5df518825359a2b9476)
 * [网络请求原理三次握手四次分手](https://www.zhihu.com/question/67772889)
 * [http返回码合集](https://blog.csdn.net/qq_21376985/article/details/51051554)
+* [Activity的启动过程（不要回答生命周期）](https://blog.csdn.net/luoshengyang/article/details/6689748)
 * [okhttp的源码解读](https://juejin.im/post/5abe14c95188255c313adda1)
 * [Glide原理之执行流程分析](https://www.jianshu.com/p/179aff701a5f)
 * [Dagger2注入原理解析](https://juejin.im/entry/5b608c65e51d4519202e475b)
