@@ -123,6 +123,8 @@
 * [okhttp的源码解读](https://juejin.im/post/5abe14c95188255c313adda1)
 * [Glide原理之执行流程分析](https://www.jianshu.com/p/179aff701a5f)
 * [Dagger2注入原理解析](https://juejin.im/entry/5b608c65e51d4519202e475b)
+* [深入读懂 Retrofit 2.0 源码](https://www.jianshu.com/p/0c055ad46b6c)
+
 
 
 
