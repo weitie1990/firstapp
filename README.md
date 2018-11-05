@@ -105,7 +105,7 @@
 * [Android消息机制Handler](https://blog.csdn.net/u013637594/article/details/80384760)
 * [事件分发原理](https://blog.csdn.net/u013637594/article/details/82493350)
 * [AsyncTask内部实现原理。](https://blog.csdn.net/u013637594/article/details/81698881)
-* [LruCache算法如何实现，内部为什么要用LinkHashMap来实现。 ](https://blog.csdn.net/u013637594/article/details/81866582)
+* [LruCache算法如何实现，内部为什么要用LinkHashMap来实现。 ](https://blog.csdn.net/u010983881/article/details/79050209)
 * [进程之间的通信方式](https://blog.csdn.net/u011240877/article/details/72863432) 
 * [IPC原理](https://blog.csdn.net/lmj623565791/article/details/38461079)
 * [进程之间的优先级。 前台进程、可见进程、后台进程、不可见进程与空进程。](https://blog.csdn.net/wuseyukui/article/details/48004687)
