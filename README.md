@@ -102,7 +102,7 @@
 ### android
 * [Activity的启动模式、standard、singleTop、singleTask、singleInstance的区别](https://blog.csdn.net/zivensonice/article/details/51569502)
 * [Service的启动模式和生命周期](https://blog.csdn.net/carson_ho/article/details/53160137)
-* [Android消息机制Handler](https://blog.csdn.net/u013637594/article/details/80384760)
+* [Android消息机制Handler](https://www.jianshu.com/p/7f2fcb43f8d9)
 * [事件分发原理](https://blog.csdn.net/u013637594/article/details/82493350)
 * [AsyncTask内部实现原理。](https://blog.csdn.net/u013637594/article/details/81698881)
 * [LruCache算法如何实现，内部为什么要用LinkHashMap来实现。 ](https://blog.csdn.net/u010983881/article/details/79050209)
