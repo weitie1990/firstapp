@@ -91,7 +91,7 @@
 
 ## 面试题库
 ### java
-* [HashMap的内部原理](https://juejin.im/post/5b7991fc51882542f25a4e76)
+* [HashMap的内部原理](https://blog.csdn.net/u012926924/article/details/50451991)
 * [java中创建线程的方式有几种](https://blog.csdn.net/longshengguoji/article/details/41126119)
 * [线程阻塞的方式。主要还是考察sleep、wait、yield与join的区别。](https://www.cnblogs.com/aspirant/p/8876670.html)
 * [死锁造成的原因、手写死锁。synchronized 关键字](https://juejin.im/post/5aaf6ee76fb9a028d3753534)
