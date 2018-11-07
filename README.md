@@ -95,7 +95,7 @@
 * [java中创建线程的方式有几种](https://blog.csdn.net/longshengguoji/article/details/41126119)
 * [线程阻塞的方式。主要还是考察sleep、wait、yield与join的区别。](https://www.cnblogs.com/aspirant/p/8876670.html)
 * [死锁造成的原因、手写死锁。synchronized 关键字](https://juejin.im/post/5aaf6ee76fb9a028d3753534)
-* [线程池ThreadPoolExecutor的使用，内部处理任务的过程以及四种线程池的区别。](https://blog.csdn.net/xiaoxiaoxuanao/article/details/78737085)
+* [线程池ThreadPoolExecutor的使用，内部处理任务的过程以及四种线程池的区别。](https://blog.csdn.net/zw19910924/article/details/80298593)
 * [Java中的四种引用以及使用的场景](https://blog.csdn.net/u014532217/article/details/79184412)
 * [java中GC回收算法以及年代区分问题等](https://segmentfault.com/a/1190000016187449)
 
