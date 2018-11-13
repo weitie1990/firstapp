@@ -125,6 +125,9 @@
 * [Dagger2注入原理解析](https://juejin.im/entry/5b608c65e51d4519202e475b)
 * [深入读懂 Retrofit 2.0 源码](https://www.jianshu.com/p/0c055ad46b6c)
 * [RecyclerView源码分析](https://www.jianshu.com/p/5f6151c1b6f8)
+* [build.gradle详解](https://blog.csdn.net/hebbely/article/details/79074460)
+
+
 
 
 
